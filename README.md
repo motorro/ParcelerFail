@@ -1,5 +1,5 @@
 # ParcelerFail
-Test project to illustrate Parceler problem
+Test project to illustrate [Parceler problem](https://youtrack.jetbrains.com/issue/KT-46567)
 
 Compilation fails for Kotlin 1.5.0 and new backend for parcelable using nested generics:
 
